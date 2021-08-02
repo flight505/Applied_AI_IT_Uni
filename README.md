@@ -1,9 +1,10 @@
 # Applied Artificial Intelligence (Summer University) (Spring 2021)
 
-
 Three lectures per week.
 Monday / Tuesday / Thursday / friday is question day
 Wednesday and Fridays are dedicated to individual work and supervision
+
+<a href="https://colab.research.google.com/github/flight505/Applied_AI_IT_Uni/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ***
