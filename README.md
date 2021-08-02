@@ -120,6 +120,11 @@ In this project we will solve two simple environments using a Q-table and a Neur
 
 ***
 ### day09:
+
+<b> The hand-ins for this session will be: </b>
+- [ ] Project: PROJECT_Convolutional_networks.ipynb
+
+Lecture 9 - Optimization (Gradient optimization, Population-based algorithms)
 ***
 ### day10:
 ***
