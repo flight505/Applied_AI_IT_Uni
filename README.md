@@ -20,21 +20,16 @@ Wednesday and Fridays are dedicated to individual work and supervision
 ***
 ### day02 Simple Regression Models:
 
+In this lecture, we will learn how to do a simple linear regression, reason about it and predict a continuous value based on on a set of variables. Furthermore, we will learn how to predict a categorical value using logistic regression. We will practice on datasets after the lecture.
+
 <b> The hand-ins for this session will be: </b>
 
-- [ ] linear-regression-house-price-prediction.ipynb
-(polynomial regression part in optional; leave neural networks for Thursday)
+- [x] PROJECT_linear-regression-house-price-prediction.ipynb
 
-- [ ] Logistic_regression_heart_attack.ipynb
-(tips and clarifications:
-"cost" function and "loss" function have the same meaning in the context if this exercise;
-You can either use PyTorch to calculate the  gradient (so don't fill the "gradient code"), or you can implement your own gradient descent using the gradient implementation shown in the slides;
-Accuracy is calculated  like: correctly classified samples / all samples.
-)
 
 - An example how the optimisation works with PyTorch.
 
-https://towardsdatascience.com/logistic-regression-on-mnist-with-pytorch-b048327f8d19
+https://medium.com/@the1ju/simple-logistic-regression-using-keras-249e0cc9a970
 
 ***
 ### day03 Classification and Deep Learning:
@@ -68,7 +63,7 @@ Clarifications:
 
 ***
 
-### day04 Dimensionality Reduction and Clustering:
+### day 04 Dimensionality Reduction and Clustering:
 
 <b> The hand-ins for this session will be: </b>
 
@@ -79,7 +74,7 @@ The goal of this project is to check if you understand the PCA and KMeans algori
 We will walk you through computing the principal components of a matrix that shows the nutrient composition of pizzas of different brands.
 
 ***
-### day05 Introduction to NLP:
+### day 05 Introduction to NLP:
 
 Text normalization using Gensim, we will load and preprocess the data from the six_thousand_tweets.csv file using the normalization techniques we talked about in the lecture.
 next text processing
@@ -92,10 +87,10 @@ For this, we will end up covering several libraries, including (but not limited 
 No hand-ins for this day.
 ***
 
-### day06 word2vec and LDA:
+### day 06 word2vec and LDA:
 
 <b> The hand-ins for this session will be: </b>
-- [ ] Project: state-of-the-union speeches.
+- [ ] PROJECT - Speeches - Word Embeddings and Topic Modelling.ipynb
 
   In this project, we will load and process the us_president_speeches.csv file, preprocess the speeches, embed their words and do topic modeling on them.
 
@@ -120,16 +115,47 @@ Avoid using MNIST-type dataset cause they are too easy to solve, pay attention t
 In this project we will solve two simple environments using a Q-table and a Neural Network (Deep Q-learning).
 
 ***
-### day09:
+### day09: Optimization (Gradient optimization, Population-based algorithms)
 
 <b> The hand-ins for this session will be: </b>
 - [ ] Project: PROJECT_Convolutional_networks.ipynb
 
-Lecture 9 - Optimization (Gradient optimization, Population-based algorithms)
+* The goal of this project is to optmize the Eggholder and Levi13 functions.
+* Feel free to implement any of the algorithms we mentioned in the class
+* Ideally, implement two of them and compare the results
+* If two algorithms found the best solution, the better one is the one with fewer calls to the objective function
+
 ***
-### day10:
+### day10 Deep Generative Models:
+
+<b> The hand-ins for this session will be: </b>
+- [ ] PROJECT_reinforcement_learning.ipynb
+
+In this project we will explore three main things:
+1. The relationship between linear autoencoders and PCA.
+2. Training Generative Adversarial Networks.
+3. Using already-trained GANs.
+
+
+**Remember to activate GPUs in Colab**.
+
+
+
 ***
-### day11:
+### day 11 Some discussions on AI Ethics:
+
+In this class we will be discussing three topics:
+
+A paper written by Bender & Gebru et al about the dangers of massive language models: https://dl.acm.org/doi/10.1145/3442188.3445922
+A paper written by Buolamwini & Gebru about bias in computer vision systems: http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
+About the potential opacity and harm of the models we develop: O'Neil's concept of Weapons of Math Destruction. Here's a review: https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/
+
 ***
-### day12:
+### day 12 - Examination hand-ins for this course.
+
+All projects must be handed in by noon on the 8´th August.
+
+***
+
+
 
