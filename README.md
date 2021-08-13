@@ -12,9 +12,9 @@ Wednesday and Fridays are dedicated to individual work and supervision at the Un
 <b> The hand-ins for this session will be: </b>
 - [x] 1b - Chipotle.
 
-- [ ] 7b - Numpy exercises.
+- [x] 7b - Numpy exercises.
 
-- [ ] 8b - Plotting exercises.
+- [x] 8b - Plotting exercises.
 
 
 ***
