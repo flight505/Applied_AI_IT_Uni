@@ -110,7 +110,7 @@ model.summary()
 
 model.compile(
     loss=keras.metrics.categorical_crossentropy,
-    optimizer=keras.optimizers.Adam(),
+    optimizer="adam",
     metrics=["accuracy"],
 )
 
