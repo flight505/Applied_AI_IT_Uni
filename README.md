@@ -22,11 +22,11 @@ Wednesday and Fridays are dedicated to individual work and supervision at the Un
 
 <b> The hand-ins for this session will be: </b>
 
-- [x] linear-regression-house-price-prediction.ipynb
-Logistic_regression_heart_attack.ipynb
+- [x] 02_PROJECT_linear-regression-house-price-prediction.ipynb
 
 
-- [x] An example how the optimisation works with PyTorch.
+
+- [x] 02_Logistic_regression_heart_attack.ipynb
 
 In this lecture, we will learn how to do a simple linear regression, reason about it and predict a continuous value based on on a set of variables. Furthermore, we will learn how to predict a categorical value using logistic regression. We will practice on datasets after the lecture.
 
@@ -36,31 +36,13 @@ notes: https://medium.com/@the1ju/simple-logistic-regression-using-keras-249e0cc
 ### day 03 Classification and Deep Learning:
 
 <b> The hand-ins for this session will be: </b>
-- [ ] fashion-mnist-with-keras-neural-networks.ipynb
-
-Clarifications:
-
-* You can import data however you want. The second executable cell assumes that you saved your files into ../input folder and checks if you saved it correctly. You can change this and import Fashion-MNIST with Keras, if you want.
-
-* Split the training data into validation and training data.
-
-* F score should be calculated for each class
+- [X] 03_fashion-mnist-with-keras-neural-networks.ipynb
 
 Notes for Neural Networks:
 
 https://drive.google.com/drive/folders/1M6gUQDsfNSCyH_dCuSqNdPSakj0FX2rt?usp=sharing
 
-Implementing neural network from scratch:
-
-https://www.kaggle.com/djoledjole/mnist-neural-network-from-scratch/edit
-
-Example of using Keras to build and train a neural network to solve multi-class MNIST dataset classification:
-
-https://colab.research.google.com/github/tensorflow/datasets/blob/master/docs/keras_example.ipynb
-
-Link to Fashion-MNIST:
-
-https://github.com/zalandoresearch/fashion-mnist
+Exploring Fashion-MNIST with TensorFlow and Keras, https://medium.com/swlh/exploring-fashion-mnist-with-tensorflow-and-keras-aa780b766149
 
 
 ***
