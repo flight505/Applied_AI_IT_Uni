@@ -51,7 +51,7 @@ Exploring Fashion-MNIST with TensorFlow and Keras, https://medium.com/swlh/explo
 
 <b> The hand-ins for this session will be: </b>
 
-- [ ] PROJECT - Pizza - Dimensionality Reduction and Clustering.ipynb
+- [x] PROJECT - Pizza - Dimensionality Reduction and Clustering.ipynb
 
 The goal of this project is to check if you understand the PCA and KMeans algorithms that we covered in class.
 
@@ -75,7 +75,7 @@ No hand-ins for this day.
 
 <b> The hand-ins for this session will be: </b>
 
-- [ ] PROJECT - Speeches - Word Embeddings and Topic Modelling.ipynb
+- [x] PROJECT - Speeches - Word Embeddings and Topic Modelling.ipynb
 or
 - [ ] ALTERNATIVE PROJECT - Word Embeddings and Topic Modelling.ipynb
 
