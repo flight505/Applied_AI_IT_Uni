@@ -96,7 +96,7 @@ Avoid using MNIST-type dataset cause they are too easy to solve, pay attention t
 ### day 08 Reinforcement Learning (Deep Q-learning):
 
 <b> The hand-ins for this session will be: </b>
-- [ ] PROJECT_reinforcement_learning.ipynb
+- [x] PROJECT_reinforcement_learning.ipynb
 
 
 In this project we will solve two simple environments using a Q-table and a Neural Network (Deep Q-learning).
