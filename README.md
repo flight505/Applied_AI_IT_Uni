@@ -105,7 +105,7 @@ In this project we will solve two simple environments using a Q-table and a Neur
 ### day 09: Optimization (Gradient optimization, Population-based algorithms)
 
 <b> The hand-ins for this session will be: </b>
-- [ ] PROJECT_eggholder_and_tsp_optimization.ipynb
+- [x] PROJECT_eggholder_and_tsp_optimization.ipynb
 
 * The goal of this project is to optmize the Eggholder and Levi13 functions.
 * Feel free to implement any of the algorithms we mentioned in the class
@@ -116,7 +116,7 @@ In this project we will solve two simple environments using a Q-table and a Neur
 ### day 10 Deep Generative Models:
 
 <b> The hand-ins for this session will be: </b>
-- [ ] Project - Deep Generative Models.ipynb
+- [x] Project - Deep Generative Models.ipynb
 
 In this project we will explore three main things:
 1. The relationship between linear autoencoders and PCA.
