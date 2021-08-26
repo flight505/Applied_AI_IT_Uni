@@ -85,7 +85,7 @@ or
 ### day 07 Convolutional Neural Networks + Dropout and BatchNorm:
 
 <b> The hand-ins for this session will be: </b>
-- [ ] Project: PROJECT_Convolutional_networks.ipynb
+- [x] Project: PROJECT_Convolutional_networks.ipynb
 
 Clarifications: Feel free to browse Kaggle, Tensorflow dataset database, or any other dataset. The Intel Image Classification dataset is an example dataset you might find interesting.
 
